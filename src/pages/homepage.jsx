@@ -83,9 +83,9 @@ const Homepage = () => {
 				<NavBar active="home" />
 				<div className="content-wrapper">
 					<div className="homepage-logo-container">
-						<div style={logoStyle}>
+						{/* <div style={logoStyle}>
 							<Logo width={logoSize} link={false} />
-						</div>
+						</div> */}
 					</div>
 
 					<div className="homepage-container">
@@ -104,7 +104,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="homepage.jpg"
+											src="foto_catalina.jpg"
 											alt="about"
 											className="homepage-image"
 										/>
@@ -171,7 +171,7 @@ const Homepage = () => {
 						</div>
 
 						<div className="homepage-after-title">
-							<div className="homepage-articles">
+							{/* <div className="homepage-articles">
 								{myArticles.map((article, index) => (
 									<div
 										className="homepage-article"
@@ -186,7 +186,7 @@ const Homepage = () => {
 										/>
 									</div>
 								))}
-							</div>
+							</div> */}
 
 							<div className="homepage-works">
 								<Works />

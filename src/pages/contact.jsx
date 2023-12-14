@@ -34,7 +34,7 @@ const Contact = () => {
 				<div className="content-wrapper">
 					<div className="contact-logo-container">
 						<div className="contact-logo">
-							<Logo width={46} />
+							{/* <Logo width={46} /> */}
 						</div>
 					</div>
 
@@ -52,13 +52,13 @@ const Contact = () => {
 							<a href={`mailto:${INFO.main.email}`}>
 								{INFO.main.email}
 							</a>
-							. I make an effort to respond to all messages within
+							{/* . I make an effort to respond to all messages within
 							24 hours, although it may take me longer during busy
 							periods. Alternatively, you can use the contact form
 							on my website to get in touch. Simply fill out the
 							required fields and I'll get back to you as soon as
 							possible. Finally, if you prefer to connect on
-							social media, you can find me on{" "}
+							social media, you can find me on{" "} */}
 							<a
 								href={INFO.socials.instagram}
 								target="_blank"
@@ -66,10 +66,10 @@ const Contact = () => {
 							>
 								{INFO.socials.instagram}
 							</a>
-							. I post regular updates and engage with my
+							{/* . I post regular updates and engage with my
 							followers there, so don't hesitate to reach out.
 							Thanks again for your interest, and I look forward
-							to hearing from you!
+							to hearing from you! */}
 						</div>
 					</div>
 
