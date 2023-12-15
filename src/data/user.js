@@ -1,9 +1,9 @@
 const INFO = {
 	main: {
 		title: "Portafolio Catalina Schaufler",
-		name: "Catalina Schuafler",
+		name: "Catalina Schaufler",
 		email: "cata.schauflc@gmail.com",
-		logo: "../logo.png",
+		logo: "../logo.jpg",
 	},
 
 	socials: {
@@ -18,7 +18,7 @@ const INFO = {
 	homepage: {
 		title: "Catalina Schaufler",
 		description:
-			"",
+			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
 	},
 
 	about: {
@@ -35,21 +35,23 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Robo4Kids",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"AWS Robo4Kids is a service that allows to extract all the complexity of logic programming for robots in a simple and easy graphical interface which can be used as a teaching tool for educational institutions, facilitating the learning of students in subjects such as robotics and programming and helping teachers and parents to educate future generations in useful skills for their professional development. ",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/cataherrera/robo4kids",
+			link2: "https://github.com/cataherrera/Cloud4kids-Robo4kids",
+			picture: "jetbot-blockly.png",
+
 		},
 
 		{
-			title: "Project 2",
+			title: "ESO Observatory Research",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"Telescope Performance Monitoring Tool Kit January,Development for monitoring analyzing and displaying relevant performance metrics for the Very Large Telescope (VLT),Developed tool kit for monitoring, analyzing and displaying relevant performance metrics for the Very Large Telescope (VLT),Created models for parameters for re-calibration of the Very Large Telescope (VLT) positioning models, Created models for each focus of the Unit Telescope for the calibration and focus change processes, Created models and analyzed quality parameters of images in pre-observation processes ",
 			linkText: "View Project",
 			link: "https://github.com",
+			// picture: "foto_catalina.jpg",
 		},
 
 		{
@@ -59,6 +61,8 @@ const INFO = {
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "View Project",
 			link: "https://github.com",
+			// picture: "foto_catalina.jpg",
+
 		},
 
 		{
@@ -68,6 +72,8 @@ const INFO = {
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com",
+			picture: "",
+
 		},
 
 		{
@@ -77,6 +83,8 @@ const INFO = {
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com",
+			picture: "",
+
 		},
 	],
 };

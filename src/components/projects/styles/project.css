@@ -70,3 +70,16 @@
 		height: 300px;
 	}
 }
+.project-image-container {
+	/* width: 700px; 
+	height: 370px; */
+}
+
+.project-image-wrapper {
+	overflow: hidden;
+
+}
+
+.project-image-wrapper img {
+	width: 100%;
+}
