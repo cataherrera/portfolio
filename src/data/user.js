@@ -15,7 +15,7 @@ const INFO = {
 	homepage: {
 		title: "Catalina Schaufler",
 		description:
-			"I'm Catalina Schaufler currently working at AWS hoping to learn and change lifes a proyect at a time",
+			"I'm Catalina Schaufler currently working at AWS hoping to learn and change lives a proyect at a time",
 	},
 
 	about: {
