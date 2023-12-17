@@ -13,6 +13,17 @@
 	top: 4vh;
 	z-index: 999;
 }
+.projects-title{
+	text-align: center;
+	color: var(--primary-color);
+	font-family: var(--secondary-font);
+	font-size: 45px;
+	font-weight: 700;
+}
+
+
+
+
 
 .projects-container {
 	display: flex;

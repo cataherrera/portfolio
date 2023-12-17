@@ -96,7 +96,8 @@ const Homepage = () => {
 								</div>
 
 								<div className="subtitle homepage-subtitle">
-									{INFO.homepage.description}
+									<p>I'm Catalina Schaufler, currently working at AWS with the hope of changing lives one project at a time through technology. I have an insatiable curiosity to understand how things work, paired with a dream of using this knowledge to create positive change. </p>
+									<p>My goal is to create ripples of positive impact through my work. I believe progress lies in evolving both cutting-edge technology and human heartsets. My hope is that one day I can pass on this spirit of purpose-driven creation to the next generation. I dream of helping young people unlock their potential to dream big and reshape the world for the better. There are always more lives to touch, abilities to expand, and possibilities to unlocked.</p>
 								</div>
 							</div>
 

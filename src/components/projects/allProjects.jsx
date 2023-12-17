@@ -24,11 +24,14 @@ const AllProjects = () => {
 						link={project.link}
 						picture={project.picture}
 					/> */}
-
 					<div className="project-container">
 
 						<div className="project-title">Robo4Kids</div>
-						<div className="project-description">AWS Robo4Kids is a service that allows to extract all the complexity of logic programming for robots in a simple and easy graphical interface which can be used as a teaching tool for educational institutions, facilitating the learning of students in subjects such as robotics and programming and helping teachers and parents to educate future generations in useful skills for their professional development.,
+						<div className="project-description">
+						<p>AWS Robo4Kids is a graphical programming interface that simplifies robotics and coding education. It abstracts away complex logic programming, enabling students to visually assemble behaviors and focus on computational thinking skills. </p>
+						<p>As an educational tool, Robo4Kids facilitates project-based learning in robotics, computer science, and coding. The intuitive drag-and-drop interface allows students to quickly build and iterate on robot projects. This hands-on learning system promotes engagement, experimentation, and mastery.</p>
+						<p>Educators can use Robo4Kids to teach coding fundamentals, algoritmic thinking, and principles in robotics and engineering. The platform is designed to complement computing curriculums for K-12 students and beyond. Lesson plans, code examples, and pre-made robot recipes help teachers use Robo4Kids in the classroom.</p>
+						<p>With Robo4Kids, complex robot programming becomes accessible. Students, teachers, and parents can unleash their creativity through a simple yet powerful graphical interface. The open-source platform aims to make robotics education fun, engaging, and available to all.</p>
 						</div>
 						<Link to="https://github.com/cataherrera/robo4kids">
 
@@ -48,7 +51,7 @@ const AllProjects = () => {
 						<FontAwesomeIcon icon={faLink} />
 						</div>
 
-						<div className="project-link-text">Github Joined Proyect Link</div>
+						<div className="project-link-text">Github Joined Proyect with jetbotsamples Link</div>
 						</div>
 						</Link>
 						<div><p></p></div>
@@ -68,6 +71,11 @@ const AllProjects = () => {
 							
 						</div>
 					</div>
+
+				</div>
+
+				<div className="all-projects-project" >
+
 
 					<div className="project-container">
 
@@ -107,8 +115,10 @@ const AllProjects = () => {
 						
 					</div>
 					</div>
+				</div>	
 
 
+				<div className="all-projects-project" >
 
 					<div className="project-container">
 
@@ -140,13 +150,17 @@ const AllProjects = () => {
 						
 					</div>
 					</div>
+				</div>
+				<div className="all-projects-project" >
 
 					<div className="project-container">
 
 					<div className="project-title"> Interactive Retail Display for Personalized Fitness Shopping </div>
 					<div className="project-description">
-					The project aimed to create a personalized and engaging shopping experience through the use of interactive technology within a retail display. When customers approached the display, they were able to choose which muscle groups they wanted to target in their workout, such as their arms, core, or legs. Underneath the display, various workout products were embedded with lighting. As the customer selected specific muscle groups on the interactive interface, the lighting network would activate under the relevant products - those that target the muscles selected. This allowed the display to highlight and showcase only the products tailored to each customer's expressed interests and needs. The interactive component provided customization to each shopper while also delivering a more immersive, dynamic experience aimed to educate and assist customers in purchasing workout products best suited to their preferences. The technology transformed a traditional static retail display into an interactive and personalized experience focused entirely on addressing each customer's needs and goals.
-					<p></p>
+					<p>The project aimed to create a personalized and engaging shopping experience through the use of interactive technology within a retail display.</p> 
+					<p>When customers approached the display, they were able to choose which muscle groups they wanted to target in their workout, such as their arms, core, or legs. Underneath the display, various workout products were embedded with lighting. As the customer selected specific muscle groups on the interactive interface, the lighting network would activate under the relevant products - those that target the muscles selected. </p>
+					<p>This allowed the display to highlight and showcase only the products tailored to each customer's expressed interests and needs. The interactive component provided customization to each shopper while also delivering a more immersive, dynamic experience aimed to educate and assist customers in purchasing workout products best suited to their preferences. The technology transformed a traditional static retail display into an interactive and personalized experience focused entirely on addressing each customer's needs and goals.</p>
+			
 					</div>
 					<div className="project-image-container">
 					<	div className="project-image-wrapper">
@@ -170,8 +184,11 @@ const AllProjects = () => {
 						
 					</div>
 					</div>
+				</div>
+				<div className="all-projects-project" >
 
-										<div className="project-container">
+
+					<div className="project-container">
 
 					<div className="project-title">Creativity and Technology in Education, Undergraduate Research </div>
 					<div className="project-description">
@@ -190,13 +207,13 @@ const AllProjects = () => {
 						
 					</div>
 					</div>
-
+				</div>
 					
 
 
 			
 			
-				</div>
+
 		</div>
 	);
 };
