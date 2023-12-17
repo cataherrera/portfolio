@@ -108,31 +108,15 @@ const AllProjects = () => {
 					</div>
 					</div>
 
-					<div className="project-container">
 
-					<div className="project-title">Creativity and Technology in Education, Undergraduate Research </div>
-					<div className="project-description">
-
-					Research for new technologies to reduce learning gaps between students from different socioeconomic backgrounds. Developing techniques for learning with creativity about physics in public schools, with the help of a tech Ball that measures velocity acceleration position to teach kids in an interactive way.
-
-					</div>
-					<div className="project-image-container">
-					<	div className="project-image-wrapper">
-						<img
-							src="lapelota.png"
-							alt="about"
-							className="project-image"
-						/>
-						</div>
-						
-					</div>
-					</div>
 
 					<div className="project-container">
 
 					<div className="project-title">Coasin Cognitive Tecnologies </div>
 					<div className="project-description">
 					I was a Participant in the Limitless Program of the UC Innovation Center at the COASIN company 2018, where we had to research cognitive technologies for use in call centers. Specifically, we developed a prototype that analyzed the emotions of call center support executives in order to detect problematic calls. We came out third among the nearly 50 challenges in the program during that semester.
+					<p></p>
+					<p></p>
 
 					</div>
 					<div className="project-image-container">
@@ -156,6 +140,57 @@ const AllProjects = () => {
 						
 					</div>
 					</div>
+
+					<div className="project-container">
+
+					<div className="project-title"> Interactive Retail Display for Personalized Fitness Shopping </div>
+					<div className="project-description">
+					The project aimed to create a personalized and engaging shopping experience through the use of interactive technology within a retail display. When customers approached the display, they were able to choose which muscle groups they wanted to target in their workout, such as their arms, core, or legs. Underneath the display, various workout products were embedded with lighting. As the customer selected specific muscle groups on the interactive interface, the lighting network would activate under the relevant products - those that target the muscles selected. This allowed the display to highlight and showcase only the products tailored to each customer's expressed interests and needs. The interactive component provided customization to each shopper while also delivering a more immersive, dynamic experience aimed to educate and assist customers in purchasing workout products best suited to their preferences. The technology transformed a traditional static retail display into an interactive and personalized experience focused entirely on addressing each customer's needs and goals.
+					<p></p>
+					</div>
+					<div className="project-image-container">
+					<	div className="project-image-wrapper">
+						<img
+							src="sparta1.png"
+							alt="about"
+							className="project-image"
+						/>
+						</div>
+						
+					</div>
+
+					<div className="project-image-container">
+					<	div className="project-image-wrapper">
+						<img
+							src="sparta2.png"
+							alt="about"
+							className="project-image"
+						/>
+						</div>
+						
+					</div>
+					</div>
+
+										<div className="project-container">
+
+					<div className="project-title">Creativity and Technology in Education, Undergraduate Research </div>
+					<div className="project-description">
+
+					Research for new technologies to reduce learning gaps between students from different socioeconomic backgrounds. Developing techniques for learning with creativity about physics in public schools, with the help of a tech Ball that measures velocity acceleration position to teach kids in an interactive way.
+
+					</div>
+					<div className="project-image-container">
+					<	div className="project-image-wrapper">
+						<img
+							src="lapelota.png"
+							alt="about"
+							className="project-image"
+						/>
+						</div>
+						
+					</div>
+					</div>
+
 					
 
 
