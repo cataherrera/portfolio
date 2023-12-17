@@ -15,7 +15,15 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 
-							<div className="work-title">AWS</div>
+						<div className="work-title">European Souther Obersavotory (ESO)</div>
+						<div className="work-subtitle">
+						Apprenticeship 
+						</div>
+						<div className="work-duration">2019 </div>
+						</div>
+						<div className="work">
+
+							<div className="work-title">Amazon Web Services (AWS)</div>
 							<div className="work-subtitle">
 								Solution Architect
 							</div>
